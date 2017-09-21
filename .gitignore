@@ -1,0 +1,7 @@
+.vs/UpdateCosmos/v15/sqlite3/storage.ide
+.vs/ChangeFeed/v15/sqlite3/storage.ide
+packages/
+ 
+src/bin/Debug/Microsoft.Azure.Documents.Client.xml
+src/bin/
+src/obj/
